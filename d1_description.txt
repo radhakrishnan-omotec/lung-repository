@@ -1,0 +1,18 @@
+Feature	Type	Description
+GENDER	Categorical	M(male), F(female).
+AGE	Numeric	Age of the patient.
+SMOKING	Categorical	YES=2 , NO=1.
+YELLOW_FINGERS	Categorical	YES=2 , NO=1.
+ANXIETY	Categorical	YES=2 , NO=1.
+PEER_PRESSURE	Categorical	YES=2 , NO=1.
+CHRONIC DISEASE	
+	Categorical	YES=2 , NO=1.
+FATIGUE	Categorical	YES=2 , NO=1.
+ALLERGY	Categorical	YES=2 , NO=1.
+WHEEZING	Categorical	YES=2 , NO=1.
+ALCOHOL CONSUMPTION	Categorical	YES=2 , NO=1.
+COUGHING	Categorical	YES=2 , NO=1.
+SHORTNESS OF BREATH	Categorical	YES=2 , NO=1.
+SWALLOWING DIFFICULTY	Categorical	YES=2 , NO=1.
+CHEST PAIN	Categorical	YES=2 , NO=1.
+LUNG_CANCER	Categorical	YES, NO.
