@@ -1,0 +1,24 @@
+Feature	Type	Description
+Age	Numeric	The age of the patient.
+Gender	Categorical	The gender of the patient.
+Air Pollution	Categorical	The level of air pollution exposure of the patient.
+Alcohol use	Categorical	The level of alcohol use of the patient.
+Dust Allergy	Categorical	The level of dust allergy of the patient.
+OccuPational Hazards	Categorical	The level of occupational hazards of the patient.
+Genetic Risk	Categorical	The level of genetic risk of the patient.
+chronic Lung Disease	Categorical	The level of chronic lung disease of the patient.
+Balanced Diet	Categorical	The level of balanced diet of the patient.
+Obesity	Categorical	The level of obesity of the patient.
+Smoking	Categorical	The level of smoking of the patient.
+Passive Smoker	Categorical	The level of passive smoker of the patient.
+Chest Pain	Categorical	The level of chest pain of the patient.
+Coughing of Blood	Categorical	The level of coughing of blood of the patient.
+Fatigue	Categorical	The level of fatigue of the patient.
+Weight Loss	Categorical	The level of weight loss of the patient.
+Shortness of Breath	Categorical	The level of shortness of breath of the patient.
+Wheezing	Categorical	The level of wheezing of the patient.
+Swallowing Difficulty	Categorical	The level of swallowing difficulty of the patient.
+Clubbing of Finger Nails	Categorical	The level of clubbing of finger nails of the patient.
+Frequent Cold	Categorical	The frequency/level of cold of the patient.
+Dry Cough	Categorical	The level of dry cough of the patient.
+Snoring	Categorical	The level of snoring of the patient. 
