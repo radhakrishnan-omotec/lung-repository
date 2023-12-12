@@ -1,0 +1,10 @@
+Feature	Type	Description
+pid	Numeric	Anonymous identifier of a person.
+age	Numeric	Age of a person at the start of the trial.
+gender	Categorical	Male/Female
+race	Categorical	The race of a person.
+smoker	Categorical	Former/Current (Former is defined as quit smoking in last 15 years)
+days_to_cancer	Numeric	Number of days passed since the trial when the cancer was first observed.
+stage_of_cancer	Categorical	The stage of cancer when the cancer was first observed.
+
+
